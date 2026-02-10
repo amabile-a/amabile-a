@@ -4,4 +4,4 @@ Desenvolvedora Web backend, em formação.
 
 <br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amabile-a&layout=compact)
+![Top Languages](https://readme-stats-github.pages.dev/api/top-langs?amabile-a=octocat)
