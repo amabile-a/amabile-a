@@ -4,4 +4,4 @@ Desenvolvedora Web backend, em formação.
 
 <br>
 
-![Top Languages](https://readme-stats-github.pages.dev/api/top-langs?amabile-a=octocat)
+![Top Languages](https://readme-stats-github.pages.dev/api/top-langs?username=amabile-a)
